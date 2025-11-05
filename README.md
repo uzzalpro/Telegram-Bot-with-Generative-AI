@@ -16,9 +16,6 @@ To follow this tutorial, you will need:
 
 Clone the repository
 
-```bash
-Project repo: https://github.com/
-```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
@@ -58,8 +55,4 @@ OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 TELEGRAM_BOT_TOKEN=xxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
-
-### Drive link for WhatsApp Bot integrations
-
-[Link](https://drive.google.com/file/d/1Qgp6OQD_c1qzNzaRX9yIqWxAeDuwiAir/view?usp=sharing)
 
