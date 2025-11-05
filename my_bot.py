@@ -52,7 +52,7 @@ async def welcome(message: types.Message):
     Args:
         message (types.Message): _description_
     """
-    await message.reply("Hi\nI am a Chat Bot! Created by Bappy. How can i assist you?")
+    await message.reply("Hi\nI am a Chat Bot! Created by Uzzal. How can i assist you?")
 
 
 
@@ -63,7 +63,7 @@ async def helper(message: types.Message):
     A handler to display the help menu.
     """
     help_command = """
-    Hi There, I'm a bot created by Bappy! Please follow these commands - 
+    Hi There, I'm a bot created by Uzzal! Please follow these commands - 
     /start - to start the conversation
     /clear - to clear the past conversation and context.
     /help - to get this help menu.
