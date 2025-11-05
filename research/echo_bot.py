@@ -5,7 +5,7 @@ import logging
 
 
 load_dotenv()
-API_TOKEN = os.getenv("TOKEN")
+API_TOKEN = os.getenv("TELE_BOT_TOKEN")
 
 # print(API_TOKEN)
 
